@@ -10,4 +10,4 @@ Raw animation files and a final movie are freely available to the community for 
 
 Example screenshots:
 ![iBiologyScreenshotNN1](iBiologyScreenshotNN1.png)
-![iBiologyScreenshotNN2](iBiologyScreenshotNN1.png)
+![iBiologyScreenshotNN2](iBiologyScreenshotNN2.png)
